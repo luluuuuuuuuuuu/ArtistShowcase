@@ -5,7 +5,7 @@ import UpcomingConcerts from '../Components/UpcomingConcerts'
 export default function HomePage() {
     return (
         <div>
-            <Navbar band="Arctic Monkeys"/>
+            <Navbar />
             <Hero />
             <UpcomingConcerts />          
         </div>
